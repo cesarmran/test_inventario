@@ -1,0 +1,3 @@
+C:/Users/cmora/CLionProjects/test_inventario/cmake-build-debug/CMakeFiles/test_inventario.dir
+C:/Users/cmora/CLionProjects/test_inventario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cmora/CLionProjects/test_inventario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
